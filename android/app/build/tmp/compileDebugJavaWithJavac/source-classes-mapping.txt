@@ -1,0 +1,14 @@
+com/herokuapp/BuildConfig.java
+ com.herokuapp.BuildConfig
+com/herokuapp/MainActivity.java
+ com.herokuapp.MainActivity
+com/herokuapp/ReactNativeFlipper.java
+ com.herokuapp.ReactNativeFlipper
+ com.herokuapp.ReactNativeFlipper$1
+ com.herokuapp.ReactNativeFlipper$2
+ com.herokuapp.ReactNativeFlipper$2$1
+com/herokuapp/MainApplication.java
+ com.herokuapp.MainApplication
+ com.herokuapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

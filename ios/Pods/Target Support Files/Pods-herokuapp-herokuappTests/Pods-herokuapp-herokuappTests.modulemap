@@ -1,0 +1,6 @@
+module Pods_herokuapp_herokuappTests {
+  umbrella header "Pods-herokuapp-herokuappTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

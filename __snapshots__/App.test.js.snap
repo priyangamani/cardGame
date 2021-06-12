@@ -1,0 +1,1029 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CardFlipList APP /> renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+  testID="view-app-container"
+>
+  <View
+    style={
+      Object {
+        "marginTop": 40,
+        "paddingTop": 20,
+      }
+    }
+    testID="view-card-flip-container"
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <Text
+        testID="step-count-text"
+      >
+        Step Count: 
+        0
+      </Text>
+      <View
+        accessibilityRole="button"
+        accessibilityState={Object {}}
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+        testID="restart-button"
+      >
+        <View
+          style={
+            Array [
+              Object {},
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#007AFF",
+                  "fontSize": 18,
+                  "margin": 8,
+                  "textAlign": "center",
+                },
+              ]
+            }
+          >
+            Restart
+          </Text>
+        </View>
+      </View>
+    </View>
+    <RCTScrollView
+      contentContainerStyle={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "padding": 10,
+        }
+      }
+      data={
+        Array [
+          Object {
+            "show": false,
+            "value": 67,
+          },
+          Object {
+            "show": false,
+            "value": 75,
+          },
+          Object {
+            "show": false,
+            "value": 29,
+          },
+          Object {
+            "show": false,
+            "value": 4,
+          },
+          Object {
+            "show": false,
+            "value": 94,
+          },
+          Object {
+            "show": false,
+            "value": 67,
+          },
+          Object {
+            "show": false,
+            "value": 4,
+          },
+          Object {
+            "show": false,
+            "value": 75,
+          },
+          Object {
+            "show": false,
+            "value": 74,
+          },
+          Object {
+            "show": false,
+            "value": 74,
+          },
+          Object {
+            "show": false,
+            "value": 29,
+          },
+          Object {
+            "show": false,
+            "value": 94,
+          },
+        ]
+      }
+      disableVirtualization={false}
+      extraData={
+        Array [
+          Object {
+            "show": false,
+            "value": 67,
+          },
+          Object {
+            "show": false,
+            "value": 75,
+          },
+          Object {
+            "show": false,
+            "value": 29,
+          },
+          Object {
+            "show": false,
+            "value": 4,
+          },
+          Object {
+            "show": false,
+            "value": 94,
+          },
+          Object {
+            "show": false,
+            "value": 67,
+          },
+          Object {
+            "show": false,
+            "value": 4,
+          },
+          Object {
+            "show": false,
+            "value": 75,
+          },
+          Object {
+            "show": false,
+            "value": 74,
+          },
+          Object {
+            "show": false,
+            "value": 74,
+          },
+          Object {
+            "show": false,
+            "value": 29,
+          },
+          Object {
+            "show": false,
+            "value": 94,
+          },
+        ]
+      }
+      getItem={[Function]}
+      getItemCount={[Function]}
+      horizontal={false}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      onContentSizeChange={[Function]}
+      onEndReachedThreshold={2}
+      onLayout={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      stickyHeaderIndices={Array []}
+      testID="flatlist-container"
+      updateCellsBatchingPeriod={50}
+      viewabilityConfigCallbackPairs={Array []}
+      windowSize={21}
+    >
+      <View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "padding": 5,
+                }
+              }
+              testID="view-card-flip-item"
+            >
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "grey",
+                      "height": 150,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 100,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "justifyContent": "center",
+                          "marginBottom": "auto",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "marginTop": "auto",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "color": "white",
+                        },
+                      ]
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "padding": 5,
+                }
+              }
+              testID="view-card-flip-item"
+            >
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "grey",
+                      "height": 150,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 100,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "justifyContent": "center",
+                          "marginBottom": "auto",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "marginTop": "auto",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "color": "white",
+                        },
+                      ]
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "padding": 5,
+                }
+              }
+              testID="view-card-flip-item"
+            >
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "grey",
+                      "height": 150,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 100,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "justifyContent": "center",
+                          "marginBottom": "auto",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "marginTop": "auto",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "color": "white",
+                        },
+                      ]
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "padding": 5,
+                }
+              }
+              testID="view-card-flip-item"
+            >
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "grey",
+                      "height": 150,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 100,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "justifyContent": "center",
+                          "marginBottom": "auto",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "marginTop": "auto",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "color": "white",
+                        },
+                      ]
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "padding": 5,
+                }
+              }
+              testID="view-card-flip-item"
+            >
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "grey",
+                      "height": 150,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 100,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "justifyContent": "center",
+                          "marginBottom": "auto",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "marginTop": "auto",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "color": "white",
+                        },
+                      ]
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "padding": 5,
+                }
+              }
+              testID="view-card-flip-item"
+            >
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "grey",
+                      "height": 150,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 100,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "justifyContent": "center",
+                          "marginBottom": "auto",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "marginTop": "auto",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "color": "white",
+                        },
+                      ]
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "padding": 5,
+                }
+              }
+              testID="view-card-flip-item"
+            >
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "grey",
+                      "height": 150,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 100,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "justifyContent": "center",
+                          "marginBottom": "auto",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "marginTop": "auto",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "color": "white",
+                        },
+                      ]
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "padding": 5,
+                }
+              }
+              testID="view-card-flip-item"
+            >
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "grey",
+                      "height": 150,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 100,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "justifyContent": "center",
+                          "marginBottom": "auto",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "marginTop": "auto",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "color": "white",
+                        },
+                      ]
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "padding": 5,
+                }
+              }
+              testID="view-card-flip-item"
+            >
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "grey",
+                      "height": 150,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 100,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "justifyContent": "center",
+                          "marginBottom": "auto",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "marginTop": "auto",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "color": "white",
+                        },
+                      ]
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={null}
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "padding": 5,
+                }
+              }
+              testID="view-card-flip-item"
+            >
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "grey",
+                      "height": 150,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 100,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "justifyContent": "center",
+                          "marginBottom": "auto",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "marginTop": "auto",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "color": "white",
+                        },
+                      ]
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "padding": 5,
+                }
+              }
+              testID="view-card-flip-item"
+            >
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "grey",
+                      "height": 150,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 100,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "justifyContent": "center",
+                          "marginBottom": "auto",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "marginTop": "auto",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "color": "white",
+                        },
+                      ]
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "padding": 5,
+                }
+              }
+              testID="view-card-flip-item"
+            >
+              <View
+                accessible={true}
+                focusable={true}
+                onClick={[Function]}
+                onResponderGrant={[Function]}
+                onResponderMove={[Function]}
+                onResponderRelease={[Function]}
+                onResponderTerminate={[Function]}
+                onResponderTerminationRequest={[Function]}
+                onStartShouldSetResponder={[Function]}
+                style={
+                  Object {
+                    "opacity": 1,
+                  }
+                }
+              >
+                <View
+                  style={
+                    Object {
+                      "backgroundColor": "grey",
+                      "height": 150,
+                      "transform": Array [
+                        Object {
+                          "rotateY": "0deg",
+                        },
+                      ],
+                      "width": 100,
+                    }
+                  }
+                >
+                  <Text
+                    style={
+                      Array [
+                        Object {
+                          "alignItems": "center",
+                          "fontSize": 16,
+                          "fontWeight": "bold",
+                          "justifyContent": "center",
+                          "marginBottom": "auto",
+                          "marginLeft": "auto",
+                          "marginRight": "auto",
+                          "marginTop": "auto",
+                          "textAlign": "center",
+                        },
+                        Object {
+                          "color": "white",
+                        },
+                      ]
+                    }
+                  >
+                    ?
+                  </Text>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+</View>
+`;
