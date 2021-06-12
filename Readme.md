@@ -2,11 +2,10 @@
 
 Mobile App Assignment - Card Game.
 
-React Native with Javascript
 
 Technology Used:
 
-1.React Native/ JS
+1.React Native with Javascript
 2.React Testing Library
 
 node and ( npm or yarn )
