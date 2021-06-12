@@ -80,39 +80,27 @@ exports[`<CardFlipList /> renders correctly 1`] = `
       Array [
         Object {
           "show": false,
-          "value": 96,
+          "value": 53,
         },
         Object {
           "show": false,
-          "value": 19,
+          "value": 28,
         },
         Object {
           "show": false,
-          "value": 65,
+          "value": 66,
         },
         Object {
           "show": false,
-          "value": 10,
+          "value": 66,
         },
         Object {
           "show": false,
-          "value": 99,
+          "value": 53,
         },
         Object {
           "show": false,
-          "value": 89,
-        },
-        Object {
-          "show": false,
-          "value": 65,
-        },
-        Object {
-          "show": false,
-          "value": 96,
-        },
-        Object {
-          "show": false,
-          "value": 19,
+          "value": 98,
         },
         Object {
           "show": false,
@@ -120,11 +108,23 @@ exports[`<CardFlipList /> renders correctly 1`] = `
         },
         Object {
           "show": false,
-          "value": 99,
+          "value": 98,
         },
         Object {
           "show": false,
-          "value": 89,
+          "value": 10,
+        },
+        Object {
+          "show": false,
+          "value": 22,
+        },
+        Object {
+          "show": false,
+          "value": 28,
+        },
+        Object {
+          "show": false,
+          "value": 22,
         },
       ]
     }
@@ -133,39 +133,27 @@ exports[`<CardFlipList /> renders correctly 1`] = `
       Array [
         Object {
           "show": false,
-          "value": 96,
+          "value": 53,
         },
         Object {
           "show": false,
-          "value": 19,
+          "value": 28,
         },
         Object {
           "show": false,
-          "value": 65,
+          "value": 66,
         },
         Object {
           "show": false,
-          "value": 10,
+          "value": 66,
         },
         Object {
           "show": false,
-          "value": 99,
+          "value": 53,
         },
         Object {
           "show": false,
-          "value": 89,
-        },
-        Object {
-          "show": false,
-          "value": 65,
-        },
-        Object {
-          "show": false,
-          "value": 96,
-        },
-        Object {
-          "show": false,
-          "value": 19,
+          "value": 98,
         },
         Object {
           "show": false,
@@ -173,11 +161,23 @@ exports[`<CardFlipList /> renders correctly 1`] = `
         },
         Object {
           "show": false,
-          "value": 99,
+          "value": 98,
         },
         Object {
           "show": false,
-          "value": 89,
+          "value": 10,
+        },
+        Object {
+          "show": false,
+          "value": 22,
+        },
+        Object {
+          "show": false,
+          "value": 28,
+        },
+        Object {
+          "show": false,
+          "value": 22,
         },
       ]
     }

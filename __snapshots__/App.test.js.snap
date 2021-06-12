@@ -90,51 +90,51 @@ exports[`<CardFlipList APP /> renders correctly 1`] = `
         Array [
           Object {
             "show": false,
-            "value": 67,
+            "value": 33,
           },
           Object {
             "show": false,
-            "value": 75,
+            "value": 46,
           },
           Object {
             "show": false,
-            "value": 29,
+            "value": 46,
           },
           Object {
             "show": false,
-            "value": 4,
+            "value": 33,
           },
           Object {
             "show": false,
-            "value": 94,
+            "value": 97,
           },
           Object {
             "show": false,
-            "value": 67,
+            "value": 55,
           },
           Object {
             "show": false,
-            "value": 4,
+            "value": 55,
           },
           Object {
             "show": false,
-            "value": 75,
+            "value": 0,
           },
           Object {
             "show": false,
-            "value": 74,
+            "value": 89,
           },
           Object {
             "show": false,
-            "value": 74,
+            "value": 89,
           },
           Object {
             "show": false,
-            "value": 29,
+            "value": 0,
           },
           Object {
             "show": false,
-            "value": 94,
+            "value": 97,
           },
         ]
       }
@@ -143,51 +143,51 @@ exports[`<CardFlipList APP /> renders correctly 1`] = `
         Array [
           Object {
             "show": false,
-            "value": 67,
+            "value": 33,
           },
           Object {
             "show": false,
-            "value": 75,
+            "value": 46,
           },
           Object {
             "show": false,
-            "value": 29,
+            "value": 46,
           },
           Object {
             "show": false,
-            "value": 4,
+            "value": 33,
           },
           Object {
             "show": false,
-            "value": 94,
+            "value": 97,
           },
           Object {
             "show": false,
-            "value": 67,
+            "value": 55,
           },
           Object {
             "show": false,
-            "value": 4,
+            "value": 55,
           },
           Object {
             "show": false,
-            "value": 75,
+            "value": 0,
           },
           Object {
             "show": false,
-            "value": 74,
+            "value": 89,
           },
           Object {
             "show": false,
-            "value": 74,
+            "value": 89,
           },
           Object {
             "show": false,
-            "value": 29,
+            "value": 0,
           },
           Object {
             "show": false,
-            "value": 94,
+            "value": 97,
           },
         ]
       }

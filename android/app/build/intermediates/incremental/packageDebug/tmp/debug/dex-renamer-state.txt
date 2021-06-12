@@ -1,7 +1,7 @@
-#Thu Jun 10 22:54:40 SGT 2021
-base.1=/Users/priyamani/Downloads/herokuapp/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+#Sat Jun 12 22:41:50 SGT 2021
+base.1=/Users/priyamani/Downloads/folder/cardGame/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
 path.1=classes.dex
-base.0=/Users/priyamani/Downloads/herokuapp/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.0=/Users/priyamani/Downloads/folder/cardGame/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex
