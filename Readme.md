@@ -5,24 +5,11 @@
  * @format
  */
 
-module.exports = {
-  transformer: {
-    getTransformOptions: async () => ({
-      transform: {
-        experimentalImportSupport: false,
-        inlineRequires: true,
-      },
-    }),
-  },
-};
-
-
-This is findCardGame developed in ReactNative Component using React Js.
+This is CardGame developed in ReactNative Component using React Js.
 
 node and ( npm or yarn )
 
 git clone https://github.com/priyangamani/cardGame.git
-
 
 cd cardGame 
 
