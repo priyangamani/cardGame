@@ -1,11 +1,15 @@
-/**
- * Metro configuration for React Native
- * https://github.com/facebook/react-native
- *
- * @format
- */
 
-This is CardGame developed in ReactNative Component using React Js.
+
+Mobile App Assignment - Card Game.
+
+React Native with Javascript
+
+Technology Used:
+
+1.React
+2.Axios
+3.Testing Library
+4.Material UI
 
 node and ( npm or yarn )
 
@@ -20,3 +24,7 @@ yarn if all depedencies is installed, and than run it on android / ios
 yarn ios /yarn android
 
 yarn run test --u (For Testing)
+
+
+![alt text](https://github.com/priyangamani/cardGame/blob/master/screens/Screenshot_1623372956.png)
+![alt text](https://github.com/priyangamani/cardGame/blob/master/screens/testcase.png)
