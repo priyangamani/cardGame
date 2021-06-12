@@ -6,10 +6,8 @@ React Native with Javascript
 
 Technology Used:
 
-1.React
-2.Axios
-3.Testing Library
-4.Material UI
+1.React Native/ JS
+2.React Testing Library
 
 node and ( npm or yarn )
 
